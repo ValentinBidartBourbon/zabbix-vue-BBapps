@@ -16,7 +16,7 @@
     "background",
     "notifications",
     "storage",
-    "*://*/"
+    "https://mrszab01.bourbon.priv/*"
   ],
   "options_ui": {
     "page": "options.html"
